@@ -16,9 +16,9 @@ Car-side Features:
 -Near-house routine  
 -Accident detection and notification   
 
-![alt text](https://github.com/domebevi/IoT-Project.Intellingent-communication-between-home-and-car/blob/main/image.png?raw=true)
-
 <a href="FINAL_REPORT.pdf" target="_blank">Final Report</a>
+
+![alt text](https://github.com/domebevi/IoT-Project.Intellingent-communication-between-home-and-car/blob/main/image.png?raw=true)
 
 Credits: Domenico Bevilacqua - domebevi@gmail.com
 
