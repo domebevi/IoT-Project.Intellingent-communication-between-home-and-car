@@ -20,5 +20,3 @@ Car-side Features:
 
 ![alt text](https://github.com/domebevi/IoT-Project.Intellingent-communication-between-home-and-car/blob/main/image.png?raw=true)
 
-Credits: Domenico Bevilacqua - domebevi@gmail.com
-
